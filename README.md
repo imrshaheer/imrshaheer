@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Junior Machine Learning Engineer at CplusSoft | Computer Vision | Python Programming | Data Annotation | Creative Troubleshooting Solution from Pakistan</p>
+<p align="left">A Junior Machine Learning Engineer at CplusSoft | Computer Vision | Python Programming | Data Annotation | Creative Troubleshooting Solution | from Pakistan</p>
 
 ###
 
