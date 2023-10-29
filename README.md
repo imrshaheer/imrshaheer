@@ -2,7 +2,23 @@
 
 ###
 
-<p align="left">A Junior Machine Learning Engineer at CplusSoft | Computer Vision | Python Programming | Data Annotation | Creative Troubleshooting Solution | from Pakistan</p>
+<p align="left">A Junior Machine Learning Engineer at CplusSoft | Computer Vision | Python Programming | Data Annotation | Creative Troubleshooting Solution | from Pakistan
+
+With a strong background in Python programming and libraries like NumPy, Pandas, Matplotlib, Seaborn, Pillow, and OpenCV, I excel in developing cutting-edge solutions. My expertise lies in working with object detection models, including YOLO etc. I am deeply passionate about leveraging artificial intelligence to build innovative projects that yield impactful results.
+
+Key Highlights:
+
+Diverse experience across AI, ML/DL, and computer vision projects.
+I possess excellent communication skills and am committed to delivering guaranteed results.
+Expertise in using advanced data annotation tools such as LabelImg, Labelme, RoboFlow, Makesense.ai for detection, and Apeer for segmentation.
+
+I hold a Bachelor's degree in Software Engineering from Islamia College Peshawar. During my academic journey, I acquired a strong foundation in software development principles and honed my problem-solving abilities.
+
+In terms of technical skills, I am proficient in Python programming, libraries such as NumPy, Pandas, Matplotlib, Seaborn, Pillow, and OpenCV, and machine learning frameworks like Scikit-learn. Additionally, I have experience working with deep learning frameworks such as Keras and TensorFlow. My expertise extends to utilizing object detection models like YOLO and SSD Mobilenet for various projects.
+
+I have successfully contributed to several noteworthy projects, including fire detection using YOLOv5, stagnant water detection using deep learning, and license plate detection and recognition. These projects have showcased my ability to implement powerful solutions, curate datasets, and employ advanced tools and frameworks.
+
+</p>
 
 ###
 
