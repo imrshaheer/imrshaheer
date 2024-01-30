@@ -26,7 +26,7 @@ I have successfully contributed to several noteworthy projects, including fire d
 
 ###
 
-<p align="left">📚 I'm currently learning 📱🤖 "Andriod" 📲👾, 🚀 StreamLit 🎉<br>💬 Ask me about Computer Vision | Machine Learning | Python Programming | Data Annotation<br>📄 Know about my experiences 👉[Resume] 🔗 https://lnkd.in/dfyWinmp<br>📫 How to reach me 📧 [Email] ✉️ imrshaheer@gmail.com<br>🎲 Fun fact: 🏏 Cricket 🏏</p>
+<p align="left">📚 I'm currently learning 📱🤖 "Andriod" 📲👾, 🚀 StreamLit 🎉<br>💬 Ask me about Computer Vision | Machine Learning | Python Programming | Data Annotation<br>📄 Know about my experiences 👉[Profile] 🔗 [https://lnkd.in/dfyWinmp](https://linktr.ee/imrshaheer)<br>📫 How to reach me 📧 [Email] ✉️ imrshaheer@gmail.com<br>🎲 Fun fact: 🏏 Cricket 🏏</p>
 
 ###
 
